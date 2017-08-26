@@ -2,8 +2,7 @@
 Non-responsive e-mail template.
 
 ## Download
-``` git clone git@github.com:sarkaaa/sportshop-mailtemplate.git
-```
+``` git clone git@github.com:sarkaaa/sportshop-mailtemplate.git ```
 
 ## Demo
 http://sarkachwastkova.cz/templates_mail/01_sportshop/index.html
